@@ -1,34 +1,35 @@
 # Project Name
 
-## Automation configurations with ansible 
+## Automation configurations with ansible
 
 #### Contributors
 
-- Francis Warui Kinyuru
+- Esther njoki
 
 February, 2023
 
 ## website/Live Site
-Git repo [here](https://github.com/franciskinyuru/Ansible-automation)
+
+Gitrepo [here](https://github.com/Esthernjoki/WEEK-9-IP.git)
+
 ## Project Description
+
 Creating an about virtual machine using vagrant and deploying yolo app using ansible
+
 ## Project Setup Instruction
+
 Installation of ansible, virtual-box, vagrant, Docker, Terraform
 
-## Known Bugs
-`
-Unfortunately, the hashicorp/var provider and the bmatcuk/vagrant provider may not be available for your platform at the moment. These providers are commonly used with Vagrant and may not have official support for the Apple Silicon architecture (M1 chip).
-In this case, running Vagrant with Ubuntu Server on a Mac with the M1 chip might be challenging due to the lack of official provider support. However, you can still use Vagrant directly without Terraform to provision the virtual machine
-`
-
 ## Technologies Used
+
 Ansible
 Vagrant
 Virtualization
 
-
 ## Support and contact details
+
 For more information or Support liase with any contributor listed for this project.
+
 ### License Information
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
